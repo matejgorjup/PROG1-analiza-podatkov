@@ -1,1 +1,1 @@
-# PROG_analiza_podatkov
+# Analiza podatkov iz Programiranja 1
