@@ -1,7 +1,6 @@
 # Analiza podatkov iz Programiranja 1
 
-##Naslov
-=======================
+## Naslov
 
 Zajem podatkov:
 
