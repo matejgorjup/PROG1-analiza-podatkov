@@ -1,6 +1,6 @@
 ## Analiza ekonomskega stanja slovenskih občin
 
-Analiziral bom določene aspekte ekonomskega stanja vseh 212 slovenskih občin iz leta 2019 na [spletni strani Statističnega urada Republike Slovenije](https://www.stat.si/obcine).
+Analiziral bom določene aspekte ekonomskega stanja vseh 212 slovenskih občin na [spletni strani Statističnega urada Republike Slovenije](https://www.stat.si/obcine) za leto 2019.
 
 ### Zajem podatkov
 Za vsako občino bom zajel naslednje podatke:
