@@ -4,7 +4,8 @@ import re
 STEVILO_OBCIN = 210
 
 vzorec = re.compile(
-    r'class="text-size-h1">\s*Občina\s(?P<ime_obcine>.*?)\s*</h1>.*?',
+    r'<a href="/obcine/en/Municip/Index/(?P<id>\d+?)">EN</a>.*?'
+    r'class="text-size-h1">\s*Občina\s(?P<ime_obcine>.*?)\s*</h1>',
     flags=re.DOTALL
 )
 
