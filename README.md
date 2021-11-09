@@ -17,5 +17,5 @@ Za vsako občino bom zajel naslednje podatke:
 * Kje se pojavljajo skrajni primeri stopnje delovno aktivnega prebivalstva?
 * Kakšni so prihodki glede na regijo in upravno enoto?
 
-## Priprava podatkov
+### Priprava podatkov
 V repozitoriju se v mapi `podatki_obcine` nahajajo .html datoteke spletne strani posamezne občine. Navedeni podatki so bili s spleta naloženi z datoteko `prenesi_obcine.py`, nato pa obdelani in shranjeni s pomočjo datoteke `obdelava.py`. Surova oblika podatkov se sedaj nahaja v repozitoriju kot CSV datoteka pod imenom `obcine.csv`, ki vsebuje vse zgoraj navedene zajete podatke za 210 slovenskih občin.
