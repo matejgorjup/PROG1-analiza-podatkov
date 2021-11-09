@@ -39,15 +39,8 @@ def vsebina_datoteke(ime_datoteke):
 def zapisi_csv(slovarji, imena_polj, ime_datoteke):
     '''Iz seznama slovarjev ustvari CSV datoteko z glavo.'''
     pripravi_imenik(ime_datoteke)
-    with open(ime_datoteke, 'w', encoding='utf-8') as csv_datoteka:
+    with open(ime_datoteke, 'w', encoding='utf-8', newline='') as csv_datoteka:
         writer = csv.DictWriter(csv_datoteka, fieldnames=imena_polj)
         writer.writeheader()
         for slovar in slovarji:
             writer.writerow(slovar)
-
-
-def zapisi_json(objekt, ime_datoteke):
-    '''Iz danega objekta ustvari JSON datoteko.'''
-    pripravi_imenik(ime_datoteke)
-    with open(ime_datoteke, 'w', encoding='utf-8') as json_datoteka:
-        json.dump(objekt, json_datoteka, indent=4, ensure_ascii=False)
