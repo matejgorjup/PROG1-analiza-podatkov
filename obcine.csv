@@ -1,0 +1,211 @@
+id,ime_obcine,regija,UE,povrsina,prebivalci,prirast,delovna_aktivnost,placa
+1,Ajdovščina,goriška,Ajdovščina,245,19364,8.9,69.1,1055.98
+2,Apače,pomurska,Gornja Radgona,54,3532,5.1,45.0,978.9
+3,Beltinci,pomurska,Murska Sobota,62,8098,-5.6,59.0,953.26
+4,Benedikt,podravska,Lenart,24,2584,14.7,59.0,966.69
+5,Bistrica ob Sotli,posavska,Šmarje pri Jelšah,31,1333,6.8,63.7,1042.67
+6,Bled,gorenjska,Radovljica,72,7846,4.3,69.8,1083.43
+7,Bloke,primorsko-notranjska,Cerknica,75,1567,6.4,76.3,997.5
+8,Bohinj,gorenjska,Radovljica,334,5118,7.6,70.7,942.68
+9,Borovnica,osrednjeslovenska,Vrhnika,42,4547,20.9,67.3,1004.54
+10,Bovec,goriška,Tolmin,367,3074,8.1,68.7,1013.69
+11,Braslovče,savinjska,Žalec,55,5584,20.6,67.0,1046.48
+12,Brda,goriška,Nova Gorica,72,5632,2.8,64.1,1053.76
+13,Brezovica,osrednjeslovenska,Ljubljana,91,12527,19.9,70.7,1025.21
+14,Brežice,posavska,Brežice,268,24157,-1.4,65.1,1029.86
+15,Cankova,pomurska,Murska Sobota,31,1724,-0.6,48.3,965.71
+16,Celje,savinjska,Celje,95,49602,1.4,67.3,1093.56
+17,Cerklje na Gorenjskem,gorenjska,Kranj,78,7712,17.6,70.5,1433.9
+18,Cerknica,primorsko-notranjska,Cerknica,241,11625,2.0,71.0,959.86
+19,Cerkno,goriška,Idrija,132,4577,-7.2,71.9,949.08
+20,Cerkvenjak,podravska,Lenart,25,2080,12.5,62.3,939.26
+21,Cirkulane,podravska,Ptuj,32,2362,-18.6,61.9,970.61
+22,Črenšovci,pomurska,Lendava,34,3958,4.8,56.3,997.24
+23,Črna na Koroškem,koroška,Ravne na Koroškem,156,3281,-5.5,55.5,1112.79
+24,Črnomelj,jugovzhodna Slovenija,Črnomelj,340,14307,-4.2,66.8,979.68
+25,Destrnik,podravska,Ptuj,34,2617,21.8,64.9,974.38
+26,Divača,obalno-kraška,Sežana,145,4195,13.3,69.5,1022.72
+27,Dobje,savinjska,Šentjur pri Celju,18,965,-17.6,72.2,1156.58
+28,Dobrepolje,osrednjeslovenska,Grosuplje,103,3838,4.4,66.8,954.19
+29,Dobrna,savinjska,Celje,32,2240,3.6,62.9,975.49
+30,Dobrova - Polhov Gradec,osrednjeslovenska,Ljubljana,118,7752,17.2,69.5,974.23
+31,Dobrovnik,pomurska,Lendava,31,1287,0.0,56.5,1023.1
+32,Dol pri Ljubljani,osrednjeslovenska,Ljubljana,33,6295,14.3,69.9,1182.76
+33,Dolenjske Toplice,jugovzhodna Slovenija,Novo mesto,110,3525,17.6,71.6,1043.58
+34,Domžale,osrednjeslovenska,Domžale,72,36429,11.4,69.4,1044.06
+35,Dornava,podravska,Ptuj,28,2894,2.8,55.9,1062.44
+36,Dravograd,koroška,Dravograd,105,8849,11.3,62.7,1034.73
+37,Duplek,podravska,Maribor,40,6955,7.9,63.6,915.14
+38,Gorenja vas - Poljane,gorenjska,Škofja Loka,153,7560,2.2,70.3,1100.39
+39,Gorišnica,podravska,Ptuj,29,4097,11.2,63.3,938.51
+40,Gorje,gorenjska,Radovljica,116,2751,-9.8,66.3,1038.07
+41,Gornja Radgona,pomurska,Gornja Radgona,75,8401,3.1,56.0,1041.16
+42,Gornji Grad,savinjska,Mozirje,90,2506,-14.0,66.1,943.04
+43,Gornji Petrovci,pomurska,Murska Sobota,67,1992,5.0,55.0,833.05
+44,Grad,pomurska,Murska Sobota,37,2063,-17.0,46.5,981.47
+45,Grosuplje,osrednjeslovenska,Grosuplje,134,21265,14.2,70.6,1029.15
+46,Hajdina,podravska,Ptuj,22,3850,20.5,64.7,883.23
+47,Hoče - Slivnica,podravska,Maribor,54,11848,-0.9,65.0,1081.57
+48,Hodoš,pomurska,Murska Sobota,18,358,-2.8,36.0,832.76
+49,Horjul,osrednjeslovenska,Ljubljana,33,3032,3.3,72.6,1143.16
+50,Hrastnik,zasavska,Hrastnik,59,9140,-4.3,61.3,1061.93
+51,Hrpelje - Kozina,obalno-kraška,Sežana,195,4534,30.2,67.0,979.73
+52,Idrija,goriška,Idrija,294,11797,5.3,72.8,1162.22
+53,Ig,osrednjeslovenska,Ljubljana,99,7577,19.9,68.5,1046.23
+54,Ilirska Bistrica,primorsko-notranjska,Ilirska Bistrica,480,13290,-2.9,68.9,1063.03
+55,Ivančna Gorica,osrednjeslovenska,Grosuplje,227,16880,12.9,73.4,1075.69
+56,Izola,obalno-kraška,Izola,29,16367,10.1,68.0,1083.32
+57,Jesenice,gorenjska,Jesenice,76,21168,16.4,66.4,1136.95
+58,Jezersko,gorenjska,Kranj,69,635,-12.6,70.4,1008.9
+59,Juršinci,podravska,Ptuj,36,2367,7.6,57.3,1040.46
+60,Kamnik,osrednjeslovenska,Kamnik,266,29847,7.8,69.5,1022.91
+61,Kanal,goriška,Nova Gorica,147,5304,-1.9,63.7,1062.3
+62,Kidričevo,podravska,Ptuj,72,6497,6.6,66.3,963.97
+63,Kobarid,goriška,Tolmin,193,4078,-6.6,64.9,985.32
+64,Kobilje,pomurska,Lendava,20,545,0.0,61.6,991.59
+65,Kočevje,jugovzhodna Slovenija,Kočevje,555,15688,-0.8,60.4,1013.81
+66,Komen,obalno-kraška,Sežana,103,3546,-1.4,62.4,925.25
+67,Komenda,osrednjeslovenska,Kamnik,24,6345,18.8,71.7,1193.57
+68,Koper,obalno-kraška,Koper,303,52540,7.3,67.8,1176.38
+69,Kostanjevica na Krki,posavska,Krško,58,2445,-7.0,69.3,868.06
+70,Kostel,jugovzhodna Slovenija,Kočevje,56,643,-6.2,60.2,1009.09
+71,Kozje,savinjska,Šmarje pri Jelšah,90,3053,-16.0,64.0,965.49
+72,Kranj,gorenjska,Kranj,151,56715,14.3,69.2,1132.0
+73,Kranjska Gora,gorenjska,Jesenice,256,5206,4.4,67.7,1023.02
+74,Križevci,pomurska,Ljutomer,46,3545,-6.5,60.4,1133.95
+75,Krško,posavska,Krško,287,26117,8.8,67.8,1169.26
+76,Kungota,podravska,Pesnica,49,4734,3.4,55.9,916.8
+77,Kuzma,pomurska,Murska Sobota,23,1574,0.0,34.4,917.21
+78,Laško,savinjska,Laško,198,13023,4.5,66.5,1000.25
+79,Lenart,podravska,Lenart,62,8443,8.8,58.6,964.53
+80,Lendava,pomurska,Lendava,121,10464,1.3,60.6,1031.95
+81,Litija,zasavska,Litija,221,15429,9.5,69.9,980.9
+82,Ljubljana,osrednjeslovenska,Ljubljana,275,294113,8.6,66.0,1281.66
+83,Ljubno,savinjska,Mozirje,79,2547,3.9,66.8,1081.63
+84,Ljutomer,pomurska,Ljutomer,107,11265,0.5,61.7,1067.33
+85,Log - Dragomer,osrednjeslovenska,Vrhnika,11,3654,-3.8,68.8,994.51
+86,Logatec,osrednjeslovenska,Logatec,173,14232,17.4,71.1,1073.38
+87,Loška dolina,primorsko-notranjska,Cerknica,167,3797,3.2,68.9,931.23
+88,Loški Potok,jugovzhodna Slovenija,Ribnica,135,1810,-5.0,66.2,1045.23
+89,Lovrenc na Pohorju,podravska,Ruše,84,2974,-5.4,61.3,978.34
+90,Luče,savinjska,Mozirje,110,1452,-9.6,64.7,932.51
+91,Lukovica,osrednjeslovenska,Domžale,75,5882,9.0,71.5,1164.64
+92,Majšperk,podravska,Ptuj,73,4067,2.7,66.3,1000.49
+93,Makole,podravska,Slovenska Bistrica,37,2025,-2.5,64.5,938.18
+94,Maribor,podravska,Maribor,148,112095,5.7,58.1,1084.82
+95,Markovci,podravska,Ptuj,30,4000,6.0,68.5,976.35
+96,Medvode,osrednjeslovenska,Ljubljana,78,16651,15.6,68.7,1102.65
+97,Mengeš,osrednjeslovenska,Domžale,23,8150,20.1,69.2,1013.56
+98,Metlika,jugovzhodna Slovenija,Metlika,109,8397,11.0,69.3,950.63
+99,Mežica,koroška,Ravne na Koroškem,26,3559,8.4,61.4,1195.89
+100,Miklavž na Dravskem polju,podravska,Maribor,13,6828,26.4,63.2,923.51
+101,Miren - Kostanjevica,goriška,Nova Gorica,63,4976,5.4,66.6,1020.76
+102,Mirna Peč,jugovzhodna Slovenija,Novo mesto,48,2987,3.3,68.8,994.07
+103,Mislinja,koroška,Slovenj Gradec,112,4561,4.8,67.2,861.37
+104,Mokronog - Trebelno,jugovzhodna Slovenija,Trebnje,73,3080,10.7,69.1,1027.47
+105,Moravče,osrednjeslovenska,Domžale,61,5435,6.4,70.2,993.71
+106,Moravske Toplice,pomurska,Murska Sobota,145,5853,4.1,61.0,909.69
+107,Mozirje,savinjska,Mozirje,54,4133,10.9,68.6,1003.02
+108,Murska Sobota,pomurska,Murska Sobota,64,18742,1.5,58.1,1096.19
+109,Muta,koroška,Radlje ob Dravi,39,3407,8.2,59.8,1055.25
+110,Naklo,gorenjska,Kranj,28,5402,-6.5,69.2,1067.62
+111,Nazarje,savinjska,Mozirje,43,2608,6.5,66.9,1072.53
+112,Nova Gorica,goriška,Nova Gorica,280,31932,2.7,67.5,1139.95
+113,Novo mesto,jugovzhodna Slovenija,Novo mesto,236,37280,14.4,70.2,1286.19
+114,Odranci,pomurska,Lendava,7,1644,-4.9,67.0,961.71
+115,Oplotnica,podravska,Slovenska Bistrica,33,4130,4.6,67.5,874.12
+116,Ormož,podravska,Ormož,142,11968,-2.9,64.7,960.08
+117,Osilnica,jugovzhodna Slovenija,Kočevje,36,366,-43.7,44.7,714.13
+118,Pesnica,podravska,Pesnica,76,7360,10.7,57.4,1042.71
+119,Piran,obalno-kraška,Piran,43,17692,0.0,64.2,1001.38
+120,Pivka,primorsko-notranjska,Postojna,223,6176,5.5,69.3,996.63
+121,Podčetrtek,savinjska,Šmarje pri Jelšah,61,3434,4.4,70.1,888.58
+122,Podlehnik,podravska,Ptuj,46,1790,-9.5,64.1,1236.24
+123,Podvelka,koroška,Radlje ob Dravi,104,2344,-6.8,54.0,1025.09
+124,Poljčane,podravska,Slovenska Bistrica,38,4459,3.6,62.3,885.29
+125,Polzela,savinjska,Žalec,34,6224,10.6,66.7,965.2
+126,Postojna,primorsko-notranjska,Postojna,270,16363,15.1,69.6,1054.26
+127,Prebold,savinjska,Žalec,41,5125,3.7,69.8,977.55
+128,Preddvor,gorenjska,Kranj,87,3697,7.0,70.9,999.5
+129,Prevalje,koroška,Ravne na Koroškem,58,6812,1.2,62.6,1043.11
+130,Ptuj,podravska,Ptuj,67,23443,11.4,65.6,992.89
+131,Puconci,pomurska,Murska Sobota,108,5892,-1.5,55.9,1103.32
+132,Rače - Fram,podravska,Maribor,51,7433,21.9,63.3,919.56
+133,Radeče,posavska,Laško,52,4169,-6.5,65.8,991.93
+134,Radenci,pomurska,Gornja Radgona,34,5107,0.8,57.6,1009.86
+135,Radlje ob Dravi,koroška,Radlje ob Dravi,94,6183,-2.4,58.4,1029.07
+136,Radovljica,gorenjska,Radovljica,119,19053,2.4,69.1,1044.05
+137,Ravne na Koroškem,koroška,Ravne na Koroškem,63,11315,4.5,62.5,1137.86
+138,Razkrižje,pomurska,Ljutomer,10,1269,8.7,60.3,1088.55
+139,Rečica ob Savinji,savinjska,Mozirje,30,2333,3.4,69.9,841.25
+140,Renče - Vogrsko,goriška,Nova Gorica,30,4366,4.1,67.9,992.46
+141,Ribnica,jugovzhodna Slovenija,Ribnica,154,9513,5.4,70.3,1062.99
+142,Ribnica na Pohorju,koroška,Radlje ob Dravi,59,1125,-10.7,56.2,979.82
+143,Rogaška Slatina,savinjska,Šmarje pri Jelšah,72,11129,6.5,69.5,943.58
+144,Rogašovci,pomurska,Murska Sobota,40,3070,-11.7,39.2,934.13
+145,Rogatec,savinjska,Šmarje pri Jelšah,40,3094,14.9,69.6,910.84
+146,Ruše,podravska,Ruše,61,7038,-7.7,60.9,1226.84
+147,Selnica ob Dravi,podravska,Ruše,65,4479,-0.7,60.1,930.37
+148,Semič,jugovzhodna Slovenija,Črnomelj,147,3838,10.2,66.9,897.98
+149,Sevnica,posavska,Sevnica,272,17586,5.7,67.6,1007.98
+150,Sežana,obalno-kraška,Sežana,217,13524,9.1,65.9,1041.89
+151,Slovenj Gradec,koroška,Slovenj Gradec,174,16599,-0.2,65.3,1054.35
+152,Slovenska Bistrica,podravska,Slovenska Bistrica,260,25690,8.7,65.4,1068.94
+153,Slovenske Konjice,savinjska,Slovenske Konjice,98,14993,8.1,67.5,976.15
+154,Sodražica,jugovzhodna Slovenija,Ribnica,50,2191,3.7,69.5,1000.17
+155,Solčava,savinjska,Mozirje,103,517,-1.9,66.1,1004.7
+156,Središče ob Dravi,podravska,Ormož,33,1951,-28.2,70.8,1102.35
+157,Starše,podravska,Maribor,34,4011,17.5,62.8,946.16
+158,Straža,jugovzhodna Slovenija,Novo mesto,29,3912,6.6,70.2,919.28
+159,Sveta Ana,podravska,Lenart,37,2297,3.9,51.0,1024.91
+160,Sveta Trojica v Slov. goricah,podravska,Lenart,26,2083,10.1,58.8,1004.71
+161,Sveti Andraž v Slov. goricah,podravska,Ptuj,18,1187,0.8,58.7,946.11
+162,Sveti Jurij ob Ščavnici,pomurska,Gornja Radgona,51,2788,-8.6,59.1,1013.2
+163,Sveti Jurij v Slov. goricah,podravska,Lenart,31,2083,11.0,61.5,1062.82
+164,Sveti Tomaž,podravska,Ormož,38,1998,-13.5,65.4,1027.4
+165,Šalovci,pomurska,Murska Sobota,58,1383,-8.7,54.4,996.0
+166,Šempeter - Vrtojba,goriška,Nova Gorica,15,6243,9.3,67.7,1151.42
+167,Šenčur,gorenjska,Kranj,40,8756,18.8,69.9,1133.56
+168,Šentilj,podravska,Pesnica,65,8391,-10.2,51.9,990.08
+169,Šentjernej,jugovzhodna Slovenija,Novo mesto,96,7157,10.1,70.0,1155.54
+170,Šentjur,savinjska,Šentjur pri Celju,222,19186,7.4,67.4,976.13
+171,Šentrupert,jugovzhodna Slovenija,Trebnje,49,2978,7.1,54.4,1136.11
+172,Škocjan,jugovzhodna Slovenija,Novo mesto,60,3328,18.6,70.0,1042.22
+173,Škofja Loka,gorenjska,Škofja Loka,146,23216,9.5,69.9,1162.91
+174,Škofljica,osrednjeslovenska,Ljubljana,43,11419,34.5,70.2,987.31
+175,Šmarje pri Jelšah,savinjska,Šmarje pri Jelšah,108,10278,2.1,67.7,1043.07
+176,Šmarješke Toplice,jugovzhodna Slovenija,Novo mesto,34,3400,25.0,73.8,1018.17
+177,Šmartno ob Paki,savinjska,Velenje,18,3271,1.2,66.9,974.02
+178,Šmartno pri Litiji,osrednjeslovenska,Litija,95,5629,6.6,67.2,904.16
+179,Šoštanj,savinjska,Velenje,96,8735,9.0,65.9,1076.54
+180,Štore,savinjska,Celje,28,4576,-16.2,66.9,1177.18
+181,Tabor,savinjska,Žalec,35,1659,13.9,70.4,866.34
+182,Tišina,pomurska,Murska Sobota,39,3970,4.5,54.8,1059.27
+183,Tolmin,goriška,Tolmin,382,11031,-6.3,65.8,1054.54
+184,Trbovlje,zasavska,Trbovlje,58,16037,5.4,61.1,1094.38
+185,Trebnje,jugovzhodna Slovenija,Trebnje,163,13018,17.8,72.3,1040.98
+186,Trnovska vas,podravska,Ptuj,23,1350,5.2,61.1,858.7
+187,Trzin,osrednjeslovenska,Domžale,9,3923,4.8,71.2,1123.4
+188,Tržič,gorenjska,Tržič,155,14884,5.3,68.3,972.81
+189,Turnišče,pomurska,Lendava,24,3170,-15.5,59.3,905.9
+190,Velenje,savinjska,Velenje,84,33506,11.0,62.7,1064.65
+191,Velika Polana,pomurska,Lendava,19,1412,-17.0,63.5,936.65
+192,Velike Lašče,osrednjeslovenska,Ljubljana,103,4383,13.7,69.9,916.15
+193,Veržej,pomurska,Ljutomer,12,1290,27.9,63.2,1009.41
+194,Videm,podravska,Ptuj,80,5587,10.4,64.5,883.54
+195,Vipava,goriška,Ajdovščina,107,5634,18.5,69.3,1034.22
+196,Vitanje,savinjska,Slovenske Konjice,59,2256,4.9,70.3,1069.6
+197,Vodice,osrednjeslovenska,Ljubljana,31,4964,5.6,70.5,922.83
+198,Vojnik,savinjska,Celje,75,8846,11.5,69.0,980.67
+199,Vransko,savinjska,Žalec,53,2620,3.1,67.0,1006.41
+200,Vrhnika,osrednjeslovenska,Vrhnika,116,17452,14.8,69.5,1027.06
+201,Vuzenica,koroška,Radlje ob Dravi,50,2648,-3.8,60.9,1068.77
+202,Zagorje ob Savi,zasavska,Zagorje ob Savi,147,16453,0.2,67.9,996.63
+203,Zavrč,podravska,Ptuj,19,1533,-31.3,57.0,1174.21
+204,Zreče,savinjska,Slovenske Konjice,67,6505,16.3,68.8,1052.64
+205,Žalec,savinjska,Žalec,117,21425,7.2,65.2,1001.5
+206,Železniki,gorenjska,Škofja Loka,164,6699,4.6,71.7,1084.1
+207,Žetale,podravska,Ptuj,38,1297,12.3,65.6,1029.91
+208,Žiri,gorenjska,Škofja Loka,49,4915,11.0,74.3,1023.21
+209,Žirovnica,gorenjska,Jesenice,43,4384,-0.9,70.4,1102.7
+210,Žužemberk,jugovzhodna Slovenija,Novo mesto,164,4648,15.7,72.3,991.52

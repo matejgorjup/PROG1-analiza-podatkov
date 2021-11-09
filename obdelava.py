@@ -45,7 +45,7 @@ polja = ['id',
 'delovna_aktivnost',
 'placa']
 
-with open('obcine.csv', 'w', encoding='utf-8', newline='') as csv_file:
+with open('PROG_analiza_podatkov/obcine.csv', 'w', encoding='utf-8', newline='') as csv_file:
     writer = csv.DictWriter(csv_file, fieldnames=polja)
     writer.writeheader()
     for obcina in obcine:
