@@ -12,7 +12,9 @@ vzorec_obcine = re.compile(
     r'>Število prebivalcev.*?data-num">(?P<prebivalci>.*?)<\/td>.*?'
     r'>Skupni prirast.*?data-num">(?P<prirast>.*?)<\/td>.*?'
     r'>Stopnja delovne aktivnosti.*?data-num">(?P<delovna_aktivnost>.*?)<\/td>.*?'
-    r'>Povprečna mesečna neto plača.*?data-num">(?P<placa>.*?)<\/td>',
+    r'>Povprečna mesečna neto plača.*?data-num">(?P<placa>.*?)<\/td>.*?'
+    r'>Prihodek podjetij.*?data-num">(?P<podjetja>.*?)<\/td>.*?'
+    r'>Povprečna starost osebnih avtomobilov.*?data-num">(?P<starost_avtomobila>.*?)<\/td>',
     flags=re.DOTALL
 )
 
@@ -24,7 +26,9 @@ def izlusci_podatke(besedilo):
     obcina['prirast'] = float(obcina['prirast'].replace(',', '.'))
     obcina['delovna_aktivnost'] = float(obcina['delovna_aktivnost'].replace(',', '.'))
     obcina['placa'] = float(obcina['placa'].replace('.', '').replace(',', '.'))
-
+    obcina['podjetja'] = int(obcina['podjetja'].replace('.', '')) * 1000
+    obcina['starost_avtomobila'] = float(obcina['starost_avtomobila'].replace(',', '.'))
+    
     return obcina
 
 obcine = []
@@ -43,7 +47,10 @@ polja = ['id',
 'prebivalci',
 'prirast',
 'delovna_aktivnost',
-'placa']
+'placa',
+'podjetja',
+'starost_avtomobila'
+]
 
 with open('PROG_analiza_podatkov/obcine.csv', 'w', encoding='utf-8', newline='') as csv_file:
     writer = csv.DictWriter(csv_file, fieldnames=polja)
