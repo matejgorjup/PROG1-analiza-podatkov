@@ -37,7 +37,7 @@ for i in range(STEVILO_OBCIN):
     with open(ime_datoteke, encoding='utf-8') as datoteka:
         obcine.append(izlusci_podatke(datoteka.read()))
 
-print(obcine)
+#print(obcine)
 
 polja = ['id',
 'ime_obcine', 
@@ -52,7 +52,7 @@ polja = ['id',
 'starost_avtomobila'
 ]
 
-with open('PROG_analiza_podatkov/obcine.csv', 'w', encoding='utf-8', newline='') as csv_file:
+with open('obcine.csv', 'w', encoding='utf-8', newline='') as csv_file:
     writer = csv.DictWriter(csv_file, fieldnames=polja)
     writer.writeheader()
     for obcina in obcine:
